@@ -1,0 +1,23 @@
+itemGroup.BlendMainTab=Blend Main
+itemGroup.BlenditemsTab=Blend Items
+itemGroup.BlendDecoraTab=Blend Main Decora
+
+
+item.TestPick.name=Test Picky
+item.TestAxe.name=Test AxeMan
+item.TestHoe.name=Ya Hoe
+item.TestSpade.name=Digy Digy bitch
+item.TestSword.name=Stabby Stabby MotherFucker
+item.CopperDust.name=Copper Dust
+item.CopperNugget.name=Copper Nugget
+item.CopperIgnot.name=Copper Ingot
+
+entity.Test Rend.name=Mr Crazy
+entity.Test Mob.name=Mr Woopy
+
+
+tile.blockTest.name=Ugly Fucking Brick
+tile.goopBlock.name=Goop Block
+tile.copperblock.name=Copper Block
+tile.copper.name=Copper Ore
+tile.blockTcT.name=Test Crafting Table
